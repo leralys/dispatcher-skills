@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 58670,
+  "articles": [
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Yara Bayoumy and Adrian J. Rivera",
+      "title": "10 Americans Discuss the Ukraine War",
+      "description": "In Times Opinion’s latest focus group, 10 Americans talked about Vladamir Putin, Volodymyr Zelensky and where the war in Ukraine goes from here.",
+      "url": "https://www.nytimes.com/2022/04/21/opinion/ukraine-putin-biden.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/04/21/opinion/sunday/21focusgroup/21focusgroup-facebookJumbo.jpg",
+      "publishedAt": "2022-04-21T04:03:41Z",
+      "content": "Kristen Soltis Anderson: Is there anything in particular that you have seen, read, or heard about the war that has stayed with you and stuck in your memory? James?\r\nJames: With Putin being the bully … [+2256 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Ukraine war: Putin warns against foreign intervention",
+      "description": "Russia's president says any nation meddling in the Ukraine war will face a \"lightning-fast\" response.",
+      "url": "https://www.bbc.co.uk/news/world-europe-61252320",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11BC1/production/_124314627_putin_getty.png",
+      "publishedAt": "2022-04-27T22:54:13Z",
+      "content": "By Yaroslav LukovBBC News\r\nImage source, Getty Images\r\nImage caption, Vladimir Putin said Russia had \"all the tools\" to respond\r\nAny country trying to intervene in the Ukraine war will face a \"lightn… [+3884 chars]"
+    },
+    {
+      "source": { "id": "wired", "name": "Wired" },
+      "author": "Will Knight",
+      "title": "To Win the Next War, the Pentagon Needs Nerds",
+      "description": "Data scientists, coders, and other techies could prove decisive in future conflicts—if Uncle Sam can recruit them.",
+      "url": "https://www.wired.com/story/to-win-the-next-war-the-pentagon-needs-nerds/",
+      "urlToImage": "https://media.wired.com/photos/626b283860942f9bb3adc5d6/191:100/w_1280,c_limit/Kathleen-Hicks-US-DoD-Ukraine-Business-1238693469.jpg",
+      "publishedAt": "2022-05-02T11:00:00Z",
+      "content": "When Russia invadedUkraine, the US Department of Defense turned to a team of machine learning and artificial intelligence experts to make sense of an avalanche of information about the conflict.\r\nWe … [+3408 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Michael Barbaro, Rob Szypko, Diana Nguyen, Luke Vander Ploeg, John Ketchum, M.J. Davis Lin, Brad Fisher, Marion Lozano, Dan Powell and Chris Wood",
+      "title": "Biden’s Climate Shift",
+      "description": "The war in Ukraine has led the president to retreat on his ambitious climate policies.",
+      "url": "https://www.nytimes.com/2022/04/12/podcasts/the-daily/biden-climate-ukraine-war.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/04/12/podcasts/12daily-1/merlin_186943623_285965ba-dbda-4d79-811f-87f2edde6453-facebookJumbo.jpg",
+      "publishedAt": "2022-04-12T10:00:07Z",
+      "content": "Coral Davenport contributed reporting.\r\nThe Daily is made by Lisa Tobin, Rachel Quester, Lynsea Garrison, Clare Toeniskoetter, Paige Cowett, Michael Simon Johnson, Brad Fisher, Larissa Anderson, Chri… [+750 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Lucas Ropek",
+      "title": "6 Ways Hackers Are Complicating the War in Ukraine",
+      "description": "Fears of an unprecedented Russian cyberwar began to germinate around the same time Russia began amassing troops on its border with Ukraine. Some people pictured a Russian digital assault not just on Ukraine but on all of the West. At least a few people though…",
+      "url": "https://gizmodo.com/ukraine-russia-facebook-hackers-disinformation-1848735747",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3ee6a26598c26a7a346a9efb5007fc08.jpg",
+      "publishedAt": "2022-04-08T14:30:00Z",
+      "content": "U.S. officials have very publicly worried that Putins government might retaliate against America over its support for Ukraine. One of the easiest ways Russia could do this without openly starting WWI… [+1027 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Ukraine war: Kyiv's battle for justice over alleged Russian war crimes",
+      "description": "Ukraine says more than 6,000 such cases have already been opened - but Moscow denies the allegations.",
+      "url": "https://www.bbc.co.uk/news/world-europe-61100178",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17396/production/_124162159_lowen_destruction.png",
+      "publishedAt": "2022-04-13T23:00:04Z",
+      "content": "By Mark LowenBBC News, Bucha and Borodyanka, near Kyiv\r\nImage caption, Ten victims - some completely charred - were discovered in one mass grave in Bucha\r\nUkraine's fightback against Russian aggressi… [+4723 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Sabrina Tavernise, Rikki Novetsky, Stella Tan, Clare Toeniskoetter, Patricia Willens, Mike Benoist, Marion Lozano and Chris Wood",
+      "title": "The Next Phase of the War in Ukraine",
+      "description": "Moscow has narrowed its goals. What does that tell us about Russia’s military?",
+      "url": "https://www.nytimes.com/2022/04/13/podcasts/the-daily/russia-ukraine-war.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/04/13/podcasts/13daily-1/merlin_205306347_1ef03823-7fd0-48a6-a8d5-fa537d0190d5-facebookJumbo.jpg",
+      "publishedAt": "2022-04-13T10:00:09Z",
+      "content": "Eric Schmitt contributed reporting.\r\nThe Daily is made by Lisa Tobin, Rachel Quester, Lynsea Garrison, Clare Toeniskoetter, Paige Cowett, Michael Simon Johnson, Brad Fisher, Larissa Anderson, Chris W… [+747 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Ukraine: Online posts 'transform' war crimes documentation",
+      "description": "Open-source evidence is increasingly used by the UN and war crimes investigators, says law professor.",
+      "url": "https://www.bbc.co.uk/news/uk-wales-61011855",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2A99/production/_124150901_ukrainemanholdsphone_gettyimages-1239498090.jpg",
+      "publishedAt": "2022-04-16T20:55:09Z",
+      "content": "By Paul PigottBBC News\r\nMedia caption, How do you prove a war crime has been committed?\r\nImages posted online will be crucial in prosecuting war crimes in Ukraine, according to UK legal experts.\r\nA l… [+6897 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Transnistria and Ukraine conflict: Is war spreading?",
+      "description": "Mysterious explosions in Transnistria raise fears that the Ukraine conflict may spread to Moldova.",
+      "url": "https://www.bbc.co.uk/news/world-europe-61233095",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/617F/production/_124295942_mastsreut26apr.jpg",
+      "publishedAt": "2022-04-27T10:26:18Z",
+      "content": "By Laurence PeterBBC News\r\nImage source, Reuters/Transnistria Interior Ministry\r\nImage caption, Wrecked radio masts in Grigoriopol, Transnistria\r\nMysterious explosions in Transnistria, a breakaway Ru… [+3814 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Maureen Dowd",
+      "title": "The War in Ukraine Has Our Attention. Will It Last?",
+      "description": "Can America stay focused on Russia’s evil in Ukraine?",
+      "url": "https://www.nytimes.com/2022/04/09/opinion/ukraine-russia-war-attention.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/04/10/opinion/09Dowd/09Dowd-facebookJumbo.jpg",
+      "publishedAt": "2022-04-09T14:14:42Z",
+      "content": "I called Jaron Lanier, known as the father of virtual reality, to ask him about this.\r\nIt takes a lot of energy to process a big lie compared to a little lie, and so the big lie actually has a better… [+953 chars]"
+    }
+  ]
+}

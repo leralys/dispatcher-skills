@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800;900&display=swap');
+
+:root {
+  --color-dark-purple: #262146;
+}
+*,
+* ::before,
+* ::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+  color: var(--color-dark-purple);
+  font-size: 16px;
+}
+
+.font-mulish {
+  font-family: 'Mulish', 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.PrivatePickersSlideTransition-root {
+  min-height: 195px !important;
+}
+
+[data-testid] {
+  display: none !important;
+}
+
+@media only screen and (min-width: 769px) {
+  .PrivatePickersSlideTransition-root {
+    min-height: 180px !important;
+  }
+}
+text.recharts-text tspan {
+  font-weight: 700;
+  font-size: 0.8125rem;
+}
+.recharts-text.recharts-label tspan {
+  font-family: 'Mulish';
+  font-size: 0.75rem;
+  color: var(--color-dark-purple);
+  font-weight: 400;
+}
